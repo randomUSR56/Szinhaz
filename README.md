@@ -1,3 +1,4 @@
+# Fejlesztői Dokumentáció
 # Részletes magyarázat: Székfoglalási Rendszer
 
 ## Bevezetés:
@@ -47,3 +48,74 @@ A foglalási adatok állandóan tárolódnak a megadott fájlban (`szinhaz_fogla
 
 ## Összegzés:
 A nyújtott székfoglalási rendszer a robust funkcionalitás, intuitív felhasználói interakció és adatállandóság ötvözését mutatja be, egy átfogó megoldást nyújtva a színházi foglalások kezelésére. Az osztályok és metódusok jól meghatározottak, és biztosítják a felhasználók számára a zökkenőmentes és hatékony foglalási élményt, miközben fenntartják az adatok integritását és folytonosságát a programfutások során.
+
+# Felhasználói Dokumentáció
+# Színházi Székfoglalási Rendszer Felhasználói Útmutató
+
+## Bevezetés
+
+Köszöntünk a Színházi Székfoglalási Rendszer felhasználói útmutatójában! Ez a rendszer lehetővé teszi számodra, hogy kényelmesen foglalj jegyeket egy színházban. Legyen szó mozijegyekről, színházi előadásokról vagy bármilyen más eseményről, ez a rendszer segíteni fog neked hatékonyan kezelni a foglalásokat.
+
+## Hogyan kezdjünk
+
+A Színházi Székfoglalási Rendszer használatához kövesd ezeket a lépéseket:
+
+1. **Fordítsd a Kódot**: Ha hozzáférésed van a C# kódhoz, fordítsd le azt egy C# fordítóval, például a Visual Studio, a JetBrains Rider vagy a .NET Core CLI segítségével.
+
+2. **Indítsd el a Programot**: A kód lefordítása után futtasd a fordító által generált végrehajtható fájlt. Ez elindítja a foglalási rendszert.
+
+3. **Kövesd a Képernyőn Megjelenő Utasításokat**: Miután a program fut, kövesd a képernyőn megjelenő utasításokat a foglalási rendszerrel való interakcióhoz.
+
+## Foglalás Készítése
+
+A foglalás készítéséhez kövesd ezeket a lépéseket:
+
+1. **Írd Be A Neved**: Amikor arra kérik, add meg a nevedet. Ez azonosítani fogja a foglalásodat.
+
+2. **Válassz Foglalási Módot**: Válaszd ki az alábbi foglalási módszerek egyikét:
+   - **Kézi Székválasztás**: Válaszd ki kézzel azokat a székeket, amelyeket foglalni szeretnél.
+   - **Véletlenszerű Székválasztás**: Hagyd, hogy a rendszer véletlenszerűen kiválassza a szabad székeket neked.
+
+3. **Válassz Székeket**: Ha a kézi székválasztást választottad, kövesd az utasításokat a kívánt székek kiválasztásához. Ha a véletlenszerű székválasztást választottad, a rendszer automatikusan kiosztja a szabad székeket neked.
+
+4. **Megerősítés**: Miután kiválasztottad a székeket, a rendszer megerősíti a foglalást, és megjeleníti a sikeres üzenetet.
+
+## Foglalás Törlése
+
+A foglalás törléséhez kövesd ezeket a lépéseket:
+
+1. **Írd Be A Neved**: Amikor arra kérik, add meg a nevedet. Ez azonosítani fogja a foglalásodat.
+
+2. **Megerősítés**: A rendszer megjeleníti a meglévő foglalás(ok)at. Válaszd ki azt a foglalást, amelyet törölni szeretnél.
+
+3. **Törlés**: Erősítsd meg a törlést. A rendszer felszabadítja a foglalt székeket, így azok újra elérhetővé válnak mások számára.
+
+## Foglalás Módosítása
+
+A foglalás módosításához kövesd ezeket a lépéseket:
+
+1. **Írd Be A Neved**: Amikor arra kérik, add meg a nevedet. Ez azonosítani fogja a foglalásodat.
+
+2. **Válassz Foglalást**: A rendszer megjeleníti a meglévő foglalás(ok)at. Válaszd ki azt a foglalást, amelyet módosítani szeretnél.
+
+3. **Válassz Új Székeket**: Kövesd az utasításokat az új székek kiválasztásához a foglalásodhoz.
+
+4. **Megerősítés**: Miután kiválasztottad az új székeket, a rendszer megerősíti a módosítást, és frissíti a foglalásodat.
+
+## Elérhető Székek Megtekintése
+
+Bármikor megtekintheted a színházban elérhető székeket a főmenüből kiválasztható megfelelő opció segítségével.
+
+## Foglalások Mentése és Betöltése
+
+A rendszer automatikusan menti a foglalásokat egy fájlba (`szinhaz_foglalasok.txt`). Ez a fájl minden alkalommal betöltődik, amikor a program elindul, lehetővé téve az előző foglalások folytatását.
+
+## Kilépés a Programból
+
+A programból való kilépéshez válaszd ki a megfelelő opciót a főmenüből. A foglalásaid automatikusan mentésre kerülnek.
+
+## Visszajelzés és Támogatás
+
+Ha bármilyen kérdésed, visszajelzésed vagy problémád merül fel a Színházi Székfoglalási Rendszer használata során, kérjük, lépj kapcsolatba a támogatási csapatunkkal a [dluhid@kkszki.hu](mailto:support@example.com) e-mail címen.
+
+Kellemes élményt kívánunk a Színházi Székfoglalási Rendszerrel!
