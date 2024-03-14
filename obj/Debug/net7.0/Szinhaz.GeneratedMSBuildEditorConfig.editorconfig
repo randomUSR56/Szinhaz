@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Szinhaz
-build_property.ProjectDir = /Users/luczialex/Projects/Szinhaz/Szinhaz/
+build_property.ProjectDir = /Users/dluhidaniel/Documents/GitHub/szinhaz/Szinhaz/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

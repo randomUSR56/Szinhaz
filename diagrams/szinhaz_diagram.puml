@@ -1,0 +1,26 @@
+@startuml szinhaz
+
+class SeatReservationSystem {
+    - Rows: int
+    - SeatsPerRow: int
+    - ReservedPercentage: double
+    - ReservationDataFile: string
+    - seats: bool[,]
+    + SeatReservationSystem()
+    - InitializeSeats(): void
+    - PrintSeatMap(): void
+    - SaveReservationData(reservations: Dictionary<string, List<Tuple<int, int>>>): void
+    - LoadReservationData(): Dictionary<string, List<Tuple<int, int>>>
+    + Run(): void
+    - MakeReservation(reservations: Dictionary<string, List<Tuple<int, int>>>): void
+    - CancelReservation(reservations: Dictionary<string, List<Tuple<int, int>>>): void
+    - ModifyReservation(reservations: Dictionary<string, List<Tuple<int, int>>>): void
+}
+
+class Program {
+    + Main(args: string[]): void
+}
+
+SeatReservationSystem o-- Program
+
+@enduml

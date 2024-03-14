@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Szinhaz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bd6c35cd349bb08403a140b79f8ae11783fe57b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Szinhaz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Szinhaz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

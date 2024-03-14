@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/luczialex/.nuget/packages/": {}
+    "/Users/dluhidaniel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luczialex/Projects/Szinhaz/Szinhaz/Szinhaz.csproj",
+      "projectUniqueName": "/Users/dluhidaniel/Documents/GitHub/szinhaz/Szinhaz/Szinhaz.csproj",
       "projectName": "Szinhaz",
-      "projectPath": "/Users/luczialex/Projects/Szinhaz/Szinhaz/Szinhaz.csproj",
-      "packagesPath": "/Users/luczialex/.nuget/packages/",
-      "outputPath": "/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/",
+      "projectPath": "/Users/dluhidaniel/Documents/GitHub/szinhaz/Szinhaz/Szinhaz.csproj",
+      "packagesPath": "/Users/dluhidaniel/.nuget/packages/",
+      "outputPath": "/Users/dluhidaniel/Documents/GitHub/szinhaz/Szinhaz/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/luczialex/.nuget/NuGet/NuGet.Config"
+        "/Users/dluhidaniel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -39,6 +39,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -55,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

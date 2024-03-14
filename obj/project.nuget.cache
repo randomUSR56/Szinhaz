@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FgKwfGnb9jW8gTTRAfj1uU9YPrl80CFvl+Ao+Yo4fWMKdo4HgzGvlnMrfyhKrvF+EHFUIzTOvIkP45SFV2R0SQ==",
+  "dgSpecHash": "TsnAaS4t6I+b7R0z4UwNWktzRuyDS1V1cAmXKsqKcov9/pt/qc46sd04CeEP5FJMBUg76w004dXumiK4z/PIuA==",
   "success": true,
-  "projectFilePath": "/Users/luczialex/Projects/Szinhaz/Szinhaz/Szinhaz.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/dluhidaniel/Documents/GitHub/szinhaz/Szinhaz/Szinhaz.csproj",
+  "expectedPackageFiles": [
+    "/Users/dluhidaniel/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/dluhidaniel/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/dluhidaniel/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
