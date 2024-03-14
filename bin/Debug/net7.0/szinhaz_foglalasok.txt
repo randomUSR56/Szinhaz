@@ -1,0 +1,10 @@
+Luczi Alex
+Sor: 1, Szék: 1
+Sor: 1, Szék: 2
+
+Tesztelés
+Sor: 4, Szék: 5
+
+Tesztes
+Sor: 16, Szék: 3
+

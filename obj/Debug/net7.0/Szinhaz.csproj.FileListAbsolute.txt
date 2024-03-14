@@ -1,0 +1,15 @@
+/Users/luczialex/Projects/Szinhaz/Szinhaz/bin/Debug/net7.0/Szinhaz
+/Users/luczialex/Projects/Szinhaz/Szinhaz/bin/Debug/net7.0/Szinhaz.deps.json
+/Users/luczialex/Projects/Szinhaz/Szinhaz/bin/Debug/net7.0/Szinhaz.runtimeconfig.json
+/Users/luczialex/Projects/Szinhaz/Szinhaz/bin/Debug/net7.0/Szinhaz.dll
+/Users/luczialex/Projects/Szinhaz/Szinhaz/bin/Debug/net7.0/Szinhaz.pdb
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/Szinhaz.csproj.AssemblyReference.cache
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/Szinhaz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/Szinhaz.AssemblyInfoInputs.cache
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/Szinhaz.AssemblyInfo.cs
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/Szinhaz.csproj.CoreCompileInputs.cache
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/Szinhaz.dll
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/refint/Szinhaz.dll
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/Szinhaz.pdb
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/Szinhaz.genruntimeconfig.cache
+/Users/luczialex/Projects/Szinhaz/Szinhaz/obj/Debug/net7.0/ref/Szinhaz.dll
