@@ -1,4 +1,28 @@
+## Készítők:
+- **Fejlesztők**: [Dluhi Dániel](https://github.com/randomUSR56), [Luczi Alex](https://github.com/alexluczi)
+- **Projektvezető**: Dluhi Dániel
+- **Dizájn**: Luczi Alex
+- **Tesztelő**: Luczi Alex, Dluhi Dániel
+
 # Fejlesztői Dokumentáció
+## Tartalomjegyzék
+1. [Bevezetés](#bevezetés)
+2. [Osztály struktúra](#osztály-struktúra)
+  - [SeatReservationSystem](#seatreservationsystem)
+  - [Program](#program)
+3. [Belső működés](#belső-működés)
+  - [Inicializálás](#inicializálás)
+  - [Főmenüvel való interakció](#főmenüvel-való-interakció)
+  - [Foglalási műveletek](#foglalási-műveletek)
+  - [Adatállandóság](#adatállandóság)
+4. [Összegzés](#összegzés)
+5. [Felhasználói Dokumentáció](#felhasználói-dokumentáció)
+  - [Bevezetés](#bevezetés-1)
+  - [Hogyan kezdjünk](#hogyan-kezdjünk)
+  - [Foglalás Készítése](#foglalás-készítése)
+  - [Foglalás Törlése](#foglalás-törlése)
+  - [Foglalás Módosítása](#foglalás-módosítása)
+
 # Részletes magyarázat: Székfoglalási Rendszer
 
 ## Bevezetés:
