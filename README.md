@@ -143,3 +143,13 @@ A programból való kilépéshez válaszd ki a megfelelő opciót a főmenüből
 Ha bármilyen kérdésed, visszajelzésed vagy problémád merül fel a Színházi Székfoglalási Rendszer használata során, kérjük, lépj kapcsolatba a támogatási csapatunkkal a [dluhid@kkszki.hu](mailto:support@example.com) e-mail címen.
 
 Kellemes élményt kívánunk a Színházi Székfoglalási Rendszerrel!
+
+### Pillanatképek a program működéséről
+
+1. ![Image 1](https://i.postimg.cc/nrSYHzZW/temp-Imageaw-Wg-LT.avif)
+2. ![Image 2](https://i.postimg.cc/tJ4NQP0P/temp-Image-BSZm-VB.avif)
+3. ![Image 3](https://i.postimg.cc/nLK4XTpB/temp-Image-F5z-UUX.avif)
+4. ![Image 4](https://i.postimg.cc/LsFk4GKm/temp-Image-Hcoc8-W.avif)
+5. ![Image 5](https://i.postimg.cc/NGdx8NTx/temp-Imagem-UIf-F5.avif)
+6. ![Image 6](https://i.postimg.cc/BQtBmxBf/temp-Imagev3gmut.avif)
+7. ![Image 7](https://i.postimg.cc/SsTz9v52/temp-Imageyl1g52.avif)
